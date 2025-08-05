@@ -2,7 +2,9 @@
 
 > A decentralized, secure, and scalable healthcare data warehousing system using IPFS and Apache Spark.
 
-![EHR Vault Architecture](link-to-diagram-if-any.png)
+## 🧩 Architecture Diagram
+
+![EHR Vault Diagram](https://raw.githubusercontent.com/thanesar/A-Secure-and-Anonymized-Framework-for-Electronic-Health-Records-Data-Warehousing/main/EHR%20Diagram.png)
 
 ---
 
